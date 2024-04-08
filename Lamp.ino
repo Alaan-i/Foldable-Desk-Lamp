@@ -9,7 +9,7 @@ Servo servo1;  // create servo object to control the first servo
 Servo servo2;  // create servo object to control the second servo
 
 /*output pins*/
-int lampPin = 11;
+int lampPin = 5;
 int servo1Output = 6;
 int servo2Output = 3;
 
