@@ -2,6 +2,7 @@
 
 - Required the use of an Arduino UNO as MCU
 - Repurposed an automotive headlight, controlled using MOSFET and PWM
+- Implemented rising-edge detection to avoid multiple button presses from one click
 
 
 ### 2 Modes of Operation (OFF otherwise):
